@@ -3,7 +3,7 @@ layout: default
 post_list: "date"
 toc: false
 home_btn: true
-btn_text: true
+btn_text: false
 footer: true
 title: ""
 author: ""
