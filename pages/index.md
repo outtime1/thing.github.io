@@ -1,9 +1,8 @@
 ---
 layout: default
-post_list: "date"
-toc: false
+post_list: false
 home_btn: true
-btn_text: false
+btn_text: true
 footer: true
 title: ""
 author: ""
