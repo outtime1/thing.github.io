@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-#Matthew's Homepage using Neyga
+#  Matthew's Homepage using Neyga
 
 ##  What I have done
 
