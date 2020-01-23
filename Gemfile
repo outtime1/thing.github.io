@@ -2,6 +2,14 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# gem 'github-pages', group: :jekyll_plugins
 
-gem "jekyll"
+group :jekyll_plugins do
+  gem "jekyll-assets"
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
+end
+
+gemspec

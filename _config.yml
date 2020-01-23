@@ -1,21 +1,49 @@
-## Settings
-title: pRoJEct-NeGYa
-owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
-permalink: /:title/
-description: ""
-markdown: kramdown
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
-## Global Variables
-email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
-# path to: css/, fonts/, img/ and js/
-assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
-# default max toc levels: 1 - 6 (h1 - h6)
-toc_level: 3
-# texts randomly displayed in background
-bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+title: Christian Ezeani
+subtitle: Full-Stack Developer
+
+# Side Menu Links
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
+
+  - text: Skills & Offers
+    link: /skills-and-offers
+    icon: ""
+
+  - text: Contact Me
+    link: /contact
+    icon: ""
+
+  - text: My Resume
+    link: /resume
+    icon: ""
+
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
+
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
+
+  - name: twitter
+    link: https://www.twitter.com/christianezeani
+    icon: fab fa-twitter
+
+
+    

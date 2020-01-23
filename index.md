@@ -1,10 +1,11 @@
-<!doctype markdown>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    #Hello World!#
-  </body>
-</html>
+---
+layout: default
+
+---
+
+#  Matt's Blog Homepage using pRoJEct-NeGYa
+
+##  What I have done:
+
+[Summer Studio 2020](./SS.md "Summer Studio 2020")
+
