@@ -10,7 +10,7 @@ encrypted_text: true
 permalink: /
 ---
 
-#  Matthew's Homepage using Neyga
+#  Matt's Blog Homepage using pRoJEct-NeGYa
 
-##  What I have done
+##  What I have done:
 
