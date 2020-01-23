@@ -14,5 +14,5 @@ permalink: /
 
 ##  What I have done:
 
-[link](SS.md "Summer Studio 2020")
+[Summer Studio 2020](../SS.md "Summer Studio 2020")
 
